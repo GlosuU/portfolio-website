@@ -5,7 +5,7 @@ date: 2026-07-10
 tags: ["AWS Certifications", "AWS Exam Prep", "Flashcards"]
 thumbnail_image: "0025_tn_updated-clf-materials.png"
 ---
-<img src="{{ '0025_tn_updated-clf-materials.png' | blogImagePath }}" alt="CLF and SAA materials renewed thumbnail" eleventy:ignore>
+https://youtu.be/EPuEj-DkfXA
 
 A bit over a year ago I passed the [AWS Cloud Practitioner (CLF-C02)](https://www.linkedin.com/posts/christian-greciano-408930bb_aws-certified-cloudpractitioner-activity-7321665443671252992-Q4QP/?rcm=ACoAABmWkUgBrADGb2hc3kca-dUpbUhqWmj14YU) and the [AWS Solutions Architect Associate (SAA-C03)](https://www.linkedin.com/posts/christian-greciano-408930bb_aws-certified-solutionsarchitect-activity-7328808800356855810-pmMV/?rcm=ACoAABmWkUgBrADGb2hc3kca-dUpbUhqWmj14YU) certifications. Upon doing so, I published my notes and flashcards of these certs. Now, one year later, I have refreshed my CLF-C02 materials, updating a lot of reference images and adding, editing, or deleting AWS service features and limits. Since the first 2 sections of my SAA notes are taken straight from my CLF-C02 notes, those sections have also been updated in SAA. Many things can change in one year in AWS/cloud technologies, and I'd like to delve a bit deeper on this topic in this blog post. But if you just wanted to get the updated materials, you can just stop reading and just go to the links:
 
